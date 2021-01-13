@@ -1,0 +1,7 @@
+Log created: 2021-01-12T05:15:14.593607000Z
+Process ID:  14274 (0x37c2)
+Parent PID:  7215 (0x1c2f)
+Executable:  /usr/lib/virtualbox/VBoxSVC
+Arg[0]: /usr/lib/virtualbox/VBoxSVC
+Arg[1]: --auto-shutdown
+AddRef: illegal refcnt=3221225469 state=2
